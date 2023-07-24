@@ -1,0 +1,9 @@
+1) sazxv
+
+A) 1000
+B) 123
+C) 999
+D) 409
+E) More then one is true
+F) None is true
+

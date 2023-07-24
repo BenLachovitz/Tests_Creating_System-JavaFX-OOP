@@ -1,0 +1,17 @@
+1) what the fuck yotam?
+
+  The answer is: comon
+
+2) When Yitzhak Rabin was killed?
+
+  The answer is: In November 4th 1995
+
+3) What the fuck yotam?
+
+A) tired==>true
+B) Not impresed==>true
+C) just done with it all==>true
+D) Itai the king of the world==>true
+E) More then one is true==>false
+F) None is true==>true
+

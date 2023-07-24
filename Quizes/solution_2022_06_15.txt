@@ -1,0 +1,35 @@
+1) What is the meaning of 'Hakuna Matata'?
+
+  The answer is: No worries
+
+2) iyoiyoihlh
+
+  The answer is: hjlihviohsdkzhvl
+
+3) q
+
+A) 409==>false
+B) 256==>false
+C) 206==>false
+D) 123==>true
+E) More then one is true==>false
+F) None is true==>false
+
+4) What Leonardo da Vinci was known for?
+
+A) Scientist==>true
+B) Banker==>false
+C) Mobster==>false
+D) Bucher==>false
+E) More then one is true==>false
+F) None is true==>false
+
+5) Who invented the dynamite?
+
+A) Alfred Nobel==>true
+B) Jesus==>false
+C) Albert Einstein==>false
+D) Thomas Edison==>false
+E) More then one is true==>false
+F) None is true==>false
+

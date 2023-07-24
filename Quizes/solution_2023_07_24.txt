@@ -1,0 +1,9 @@
+1) sazxv
+
+A) 1000==>false
+B) 123==>true
+C) 999==>false
+D) 409==>false
+E) More then one is true==>true
+F) None is true==>false
+

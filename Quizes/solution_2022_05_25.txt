@@ -1,0 +1,17 @@
+1) What is the meaning of 'Hakuna Matata'?
+
+  The answer is: No worries
+
+2) When Yitzhak Rabin was killed?
+
+  The answer is: In November 4th 1995
+
+3) How many bones there are in human body?
+
+A) 256==>false
+B) 123==>false
+C) 206==>true
+D) 500==>false
+E) More then one is true==>false
+F) None is true==>false
+

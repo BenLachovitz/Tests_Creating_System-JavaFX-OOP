@@ -1,0 +1,17 @@
+1) What is the meaning of 'Hakuna Matata'?
+
+  The answer is: No worries
+
+2) When Yitzhak Rabin was killed?
+
+  The answer is: In November 4th 1995
+
+3) q
+
+A) 206==>false
+B) 409==>false
+C) 123==>true
+D) 256==>false
+E) More then one is true==>false
+F) None is true==>false
+

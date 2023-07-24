@@ -1,0 +1,47 @@
+1) ,xmvc;a
+
+  The answer is: vxnakla
+
+2) What is the meaning of 'Hakuna Matata'?
+
+  The answer is: qwrwasf
+
+3) Lick my ass
+
+  The answer is: zxvxzvxz
+
+4) Hello you
+
+  The answer is: Hello you to
+
+5) When Yitzhak Rabin was killed?
+
+  The answer is: In November 4th 1995
+
+6) How many bones there are in human body?
+
+A) 555==>false
+B) 206==>true
+C) 256==>false
+D) 500==>false
+E) More then one is true==>false
+F) None is true==>false
+
+7) Suck my dick
+
+A) wfqfq==>false
+B) savcsav==>false
+C) a;,s;as==>true
+D) dsbsdb==>false
+E) More then one is true==>false
+F) None is true==>false
+
+8) Who invented the dynamite?
+
+A) Moses==>false
+B) Thomas Edison==>false
+C) Alfred Nobel==>true
+D) fibonacci==>false
+E) More then one is true==>false
+F) None is true==>false
+
